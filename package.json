@@ -82,7 +82,7 @@
   "name": "react-native-audiowaveform",
   "optionalDependencies": {},
   "peerDependencies": {
-    "react-native": "^0.54.0"
+    "react-native": "0.72.6"
   },
   "repository": {
     "type": "git",
